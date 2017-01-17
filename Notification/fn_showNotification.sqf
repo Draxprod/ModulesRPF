@@ -1,7 +1,8 @@
 /*
 	File : fn_showNotification.sqf
 
-	Author: KindartDEV
+	Author: UpperM
+	Edit: KindartDEV (Conversion en Module)
 
 	Description:
 
